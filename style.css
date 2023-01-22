@@ -103,7 +103,7 @@ header {
 .number_list {
   width: 70%;
   text-align: center;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .number_desc {
@@ -135,7 +135,7 @@ header {
 .above_iconlist,
 .below_iconlist {
   width: 75%;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .icon_item {
